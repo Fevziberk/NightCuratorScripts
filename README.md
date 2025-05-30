@@ -5,7 +5,7 @@ NightCurator is a first person psychological horror game which developed in Unit
 There are plenty of work needs to be done, such as randomizing spawns and anomalies, improving overall visual and gameplay mechanics etc.
 
 The project members are:
-Abdallah Ghordlo
-Fevzi Berk Çeliktaş
+Abdallah Ghordlo,
+Fevzi Berk Çeliktaş,
 Hussein Abdikarim
 
